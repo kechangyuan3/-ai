@@ -1,0 +1,15 @@
+node_modules/
+dist/
+pages-dist/
+.state/
+.env
+.env.*
+!.env.example
+runtime-paths.json
+runtime-node.txt
+*.log
+.DS_Store
+Thumbs.db
+.openai/*.local.*
+*.tar.gz
+*.zip
